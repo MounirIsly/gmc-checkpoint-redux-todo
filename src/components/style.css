@@ -1,0 +1,48 @@
+.App {
+    margin: 50px auto;
+}
+.task {
+    width: 50%;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.task-form {
+    width: 50%;
+    margin: auto;
+}
+.completed-button {
+    background-color: greenyellow;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.remove-button {
+    background-color: brown;
+    padding: 10px;
+    border: none;
+    color: wheat;
+    font-weight: bold;
+    cursor: pointer;
+}
+.task-title {
+    
+    align-self: center;
+    margin: auto;
+    font-weight: bold;
+    color: teal;
+}
+
+.input-form {
+    padding: 10px;
+    border: 1px solid orange;
+}
+.form-button {
+    background-color: orange;
+    padding: 11px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
